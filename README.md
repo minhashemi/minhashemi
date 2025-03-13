@@ -1,8 +1,8 @@
-<h1 align="center">hey there 👋</h1>
+<h1 align="center"><code>System.out.println("Hello, world!");</code></h1>
 
 ###
 
-<p align="left">I'm Amin Hashemi<br><br>- 🔭 I’m a CS student at the Shatif University of Technology with a minor in ME<br>- 📚 I'm currently learning java<br>- ⚡ In my free time I enjoy swimming and learning from youtube</p>
+<p align="left"><br>- 🔭 I’m a CS student at the Shatif University of Technology with a minor in MechEng<br>- 📚 I'm currently learning java and improving my python skills.<br>- ⚡ In my free time I enjoy swimming and learning from youtube.</p>
 
 ###
 
