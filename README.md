@@ -5,7 +5,7 @@
 <p align="left"><br>
 
  - 🔭 I'm a high-achieving Computer Science student at Sharif University of Technology, minoring in Mechanical Engineering, with a passion for Machine Learning and Software Engineering.
- - 📚 I'm actively researching security vulnerabilities in distributed systems at the Institute for Research in Fundamental Sciences (IPM) and continuously enhancing my Python and Java skills.
+ - 📚 I'm actively researching security vulnerabilities in distributed systems at Sharif University of Technology and continuously enhancing my Python and Java skills.
  - 🌱 My research interests include Deep Learning, Contrastive Learning, Applied Machine Learning and Optimization, Computer Vision, Image Understanding, Software Engineering, and Natural Language Processing.
  - ⚡ In my free time, I enjoy swimming and learning from YouTube.
 </p>
