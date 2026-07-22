@@ -11,13 +11,9 @@ AI • Research • Software Engineering
 
 <p align="center">
 🌐 <a href="https://aminhashemi.dev">Portfolio</a> •
-🤖 <a href="https://ask.aminhashemi.dev">Ask Amin AI</a> •
 💼 <a href="https://linkedin.com/in/minhashemi">LinkedIn</a>
 </p>
 
-<p align="center">
-<i>Curious? My AI assistant knows more.</i>
-</p>
 
 ---
 
