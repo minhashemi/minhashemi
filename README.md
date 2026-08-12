@@ -6,12 +6,7 @@ Computer Science @ Sharif University of Technology
 </p>
 
 <p align="center">
-AI • Research • Software Engineering
-</p>
-
-<p align="center">
-🌐 <a href="https://aminhashemi.dev">Portfolio</a> •
-💼 <a href="https://linkedin.com/in/minhashemi">LinkedIn</a>
+Computer Vision • Human-Computer Interaction • Software Engineering
 </p>
 
 
@@ -28,7 +23,6 @@ AI • Research • Software Engineering
 ## 🔬 Current Focus
 
 - Researching speech + vision   
-- Learning endlessly
 - Tasting different coffees to find the perfect cup
   
 ---
